@@ -1,0 +1,29 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_02_Adder.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_ALU_64_bit.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_ALU_Control.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_Branch_Control.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_Control_Unit.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_Data_Memory.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_EX_MEM.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_Forwarding_Unit.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_Hazard_Detection.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_ID_EX.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_IF_ID.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_Instruction_Memory.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_MEM_WB.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_Program_Counter.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_RISC_V_Processor.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_imm_data_ext.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_instruc_parse.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_mux.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_mux_triple.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_registerFile.v" \
+"../../../../task3final.srcs/sources_1/imports/Hazard Controlled RISC-V/task_03_tb_RISC_V.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

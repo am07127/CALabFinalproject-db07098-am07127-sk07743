@@ -1,0 +1,18 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sim_1/imports/new/riscvtb.v,1682248564,verilog,,,,riscvtb,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/adder.v,1682247726,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_64bit.v,,Adder,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_64bit.v,1682247776,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_control.v,,ALU,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_control.v,1682247802,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/control_unit.v,,ALU_Control,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/control_unit.v,1682247838,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/data_memory.v,,control_Unit,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/data_memory.v,1682247880,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/imm_gen.v,,Data_Memory,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/imm_gen.v,1682247900,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_memory.v,,imm_data_extractor,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_memory.v,1682247922,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_parser.v,,InstructionMemory,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_parser.v,1682247942,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/mux.v,,instruction_parser,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/mux.v,1682247964,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/pc.v,,mux,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/pc.v,1682247984,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/registerfile.v,,Program_Counter,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/registerfile.v,1683273830,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v,,regFile,,,,,,,,
+C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v,1683273048,verilog,,C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sim_1/imports/new/riscvtb.v,,riscv_processor1,,,,,,,,

@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../task1_final.srcs/sources_1/imports/new/adder.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/alu_64bit.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/alu_control.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/control_unit.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/data_memory.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/imm_gen.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/ins_memory.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/ins_parser.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/mux.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/pc.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/registerfile.v" \
+"../../../../task1_final.srcs/sources_1/imports/new/riscv_processor1.v" \
+"../../../../task1_final.srcs/sim_1/imports/new/riscvtb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

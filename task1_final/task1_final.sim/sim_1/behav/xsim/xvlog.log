@@ -1,0 +1,36 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_64bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/imm_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module imm_data_extractor
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_parser.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_parser
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Program_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/registerfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module riscv_processor1
+WARNING: [VRFC 10-3248] data object 'ele1' is already declared [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:61]
+WARNING: [VRFC 10-3703] second declaration of 'ele1' ignored [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:61]
+WARNING: [VRFC 10-3248] data object 'ele2' is already declared [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:62]
+WARNING: [VRFC 10-3703] second declaration of 'ele2' ignored [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:62]
+WARNING: [VRFC 10-3248] data object 'ele3' is already declared [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:63]
+WARNING: [VRFC 10-3703] second declaration of 'ele3' ignored [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:63]
+WARNING: [VRFC 10-3248] data object 'ele4' is already declared [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:64]
+WARNING: [VRFC 10-3703] second declaration of 'ele4' ignored [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:64]
+WARNING: [VRFC 10-3248] data object 'ele5' is already declared [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:65]
+WARNING: [VRFC 10-3703] second declaration of 'ele5' ignored [C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v:65]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sim_1/imports/new/riscvtb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module riscvtb

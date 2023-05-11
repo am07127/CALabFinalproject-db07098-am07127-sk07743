@@ -1,0 +1,55 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto da3c53e8e431452ca9e5c2c79ec3a333 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot riscvtb_behav xil_defaultlib.riscvtb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v" Line 4. Module riscv_processor1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/pc.v" Line 1. Module Program_Counter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/adder.v" Line 1. Module Adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_memory.v" Line 1. Module InstructionMemory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_parser.v" Line 1. Module instruction_parser doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/control_unit.v" Line 1. Module control_Unit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/registerfile.v" Line 1. Module regFile doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/imm_gen.v" Line 1. Module imm_data_extractor doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/mux.v" Line 1. Module mux doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_control.v" Line 1. Module ALU_Control doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_64bit.v" Line 1. Module ALU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/adder.v" Line 1. Module Adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/mux.v" Line 1. Module mux doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/data_memory.v" Line 1. Module Data_Memory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/mux.v" Line 1. Module mux doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/riscv_processor1.v" Line 4. Module riscv_processor1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/pc.v" Line 1. Module Program_Counter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/adder.v" Line 1. Module Adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_memory.v" Line 1. Module InstructionMemory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/ins_parser.v" Line 1. Module instruction_parser doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/control_unit.v" Line 1. Module control_Unit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/registerfile.v" Line 1. Module regFile doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/imm_gen.v" Line 1. Module imm_data_extractor doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/mux.v" Line 1. Module mux doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_control.v" Line 1. Module ALU_Control doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/alu_64bit.v" Line 1. Module ALU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/adder.v" Line 1. Module Adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/mux.v" Line 1. Module mux doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/data_memory.v" Line 1. Module Data_Memory doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Asad/OneDrive - Habib University/mycaprojam07127/task1_final/task1_final.srcs/sources_1/imports/new/mux.v" Line 1. Module mux doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Program_Counter
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.InstructionMemory
+Compiling module xil_defaultlib.instruction_parser
+Compiling module xil_defaultlib.control_Unit
+Compiling module xil_defaultlib.regFile
+Compiling module xil_defaultlib.imm_data_extractor
+Compiling module xil_defaultlib.mux
+Compiling module xil_defaultlib.ALU_Control
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.Data_Memory
+Compiling module xil_defaultlib.riscv_processor1
+Compiling module xil_defaultlib.riscvtb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot riscvtb_behav
